@@ -1,5 +1,7 @@
 # zinbohtun.github.io
-My Projects
+
+##My Projects
+
 📌 Portfolio Entry #1 – Clinical Project
 🧬 Project: Predicting Diabetes Using Logistic Regression in R
 
